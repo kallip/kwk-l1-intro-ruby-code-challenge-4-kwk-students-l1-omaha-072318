@@ -4,7 +4,7 @@ def least_coins(coins)
 
 #Code your answer here!
 while
-coins =>{quarters => 0, dimes => 0, nickles => 0, pennies => 0}
+coins = {"quarters" => 0, "dimes" => 0, "nickles" => 0, "pennies" => 0}
 end
 
 while least_coins => 25
