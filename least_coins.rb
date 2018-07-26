@@ -26,4 +26,5 @@ while least_coins => 1
 coin["pennies"] += 1
 cents -= 1
 end
+end
 puts least_coins
